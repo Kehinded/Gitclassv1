@@ -1,1 +1,1 @@
-This is my google home page clone, built with pure css and html only.
+https://github.com/Kehinded/Gitclassv1.git
